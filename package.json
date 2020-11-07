@@ -1,0 +1,24 @@
+{
+  "name": "ExcelDivider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuvchenko-Kostiantyn/ExcelDivider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuvchenko-Kostiantyn/ExcelDivider/issues"
+  },
+  "homepage": "https://github.com/Yuvchenko-Kostiantyn/ExcelDivider#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "xlsx": "^0.16.8"
+  }
+}
